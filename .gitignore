@@ -1,0 +1,7 @@
+# this is a comment line
+*.[oa]
+*~
+*.log
+*.tmp
+*.pid
+
